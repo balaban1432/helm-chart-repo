@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  demogitrepo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-13T04:26:02.4735942+03:00"
+    description: A Helm chart for Kubernetes
+    digest: f77ad7a677848af3fd423920e0313ad6ba9f075a6228a1e87a016f7e96a6c301
+    name: demogitrepo
+    type: application
+    urls:
+    - demogitrepo-0.1.0.tgz
+    version: 0.1.0
   phonebookapi:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-15T15:06:55.4494045+03:00"
+    created: "2024-01-13T04:26:02.4756568+03:00"
     description: A Helm chart for Kubernetes
     digest: fa73fee2bd90fe39a41394f453f7428e57c6b753b48f0ffa548a75c4305c4897
     name: phonebookapi
@@ -13,7 +24,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-15T15:06:55.4483062+03:00"
+    created: "2024-01-13T04:26:02.4741103+03:00"
     description: A Helm chart for Kubernetes
     digest: 576ec196948ed9336cdba8fc0a2abdb76478f49c9bb5f1000fafdf3ddcd06d70
     name: phonebookapi
@@ -21,4 +32,4 @@ entries:
     urls:
     - phonebookapi-1.0.0.tgz
     version: 1.0.0
-generated: "2023-04-15T15:06:55.444506+03:00"
+generated: "2024-01-13T04:26:02.4720524+03:00"
