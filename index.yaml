@@ -1,20 +1,9 @@
 apiVersion: v1
 entries:
-  clarus-chart:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-08-02T21:39:44.6607535+03:00"
-    description: A Helm chart for Kubernetes
-    digest: a84cd9f10c4c8c5aceaef9a379f72dab40f52d3ee34e841d41e7868b14908ac3
-    name: clarus-chart
-    type: application
-    urls:
-    - clarus-chart-0.1.1.tgz
-    version: 0.1.1
   demogitrepo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-02T21:39:44.670549+03:00"
+    created: "2024-08-02T21:45:28.6487785+03:00"
     description: A Helm chart for Kubernetes
     digest: f77ad7a677848af3fd423920e0313ad6ba9f075a6228a1e87a016f7e96a6c301
     name: demogitrepo
@@ -25,7 +14,7 @@ entries:
   petclinic-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-02T21:39:44.6803495+03:00"
+    created: "2024-08-02T21:45:28.6498116+03:00"
     description: A Helm chart for Kubernetes
     digest: 2020e0bf834363ae86e8364a90d81dd0c4a551c3ce0edbd70351ec5fca5ad974
     name: petclinic-chart
@@ -36,7 +25,7 @@ entries:
   phonebookapi:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-02T21:39:44.6969116+03:00"
+    created: "2024-08-02T21:45:28.6508537+03:00"
     description: A Helm chart for Kubernetes
     digest: fa73fee2bd90fe39a41394f453f7428e57c6b753b48f0ffa548a75c4305c4897
     name: phonebookapi
@@ -46,7 +35,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-02T21:39:44.6886263+03:00"
+    created: "2024-08-02T21:45:28.6503311+03:00"
     description: A Helm chart for Kubernetes
     digest: 576ec196948ed9336cdba8fc0a2abdb76478f49c9bb5f1000fafdf3ddcd06d70
     name: phonebookapi
@@ -54,4 +43,4 @@ entries:
     urls:
     - phonebookapi-1.0.0.tgz
     version: 1.0.0
-generated: "2024-08-02T21:39:44.651927+03:00"
+generated: "2024-08-02T21:45:28.6472217+03:00"
